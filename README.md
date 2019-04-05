@@ -1,16 +1,22 @@
 
 # The Peet Buster
 
-Go and bust the Peet's out there! We can't let them win ✊🏿
+Go and bust the Peet's [^1] out there! 
 
-## Note
+We can't let those lazy motherfuckers win ✊🏿
 
-Until the program isn't installable, you just have to copy the _peet_buster.sh_ file into the directory you want to, and run:
 
-	sh peet_buster.sh NAME_OF_WHO_YOU_WANNA_BUST
+## Installation
 
-## To-do
+* Clone the repository wherever you want
+* `sudo cp peet_buster.sh /usr/local/bin`
+* `sudo chmod +x peet_buster.sh`
+* Close your terminal and open a new one
+* `sudo ln -s peet_buster.sh peet_buster`
+* Remove the repository if you want
 
-Make a shell command out of this. Expectations, something like this:
+## Execution
 
-	peet_bust NAME_OF_WHO_YOU_WANNA_BUST
+	peet_buster NAME_OF_WHO_YOU_WANNA_BUST
+
+[^1]: A Peet is guy who says is wonna work but in the end he doesn't
