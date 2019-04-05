@@ -1,9 +1,13 @@
 
 # The Peet Buster
 
-Go and bust the Peet's [^1] out there! 
+Go and bust the Peet's out there! 
 
 We can't let those lazy motherfuckers win ✊🏿
+
+#### Note:
+
+A Peet is guy who says is wonna work but in the end he doesn't
 
 
 ## Installation
@@ -18,5 +22,3 @@ We can't let those lazy motherfuckers win ✊🏿
 ## Execution
 
 	peet_buster NAME_OF_WHO_YOU_WANNA_BUST
-
-[^1]: A Peet is guy who says is wonna work but in the end he doesn't
